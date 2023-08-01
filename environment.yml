@@ -7,3 +7,4 @@ dependencies:
   - pint
   - matplotlib
   - pandas
+  - pint_pandas
